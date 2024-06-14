@@ -1,1 +1,1 @@
-This project specially practice relationship practice . one to many  and many to one. data load by dropdown.  used j-query ajax.  so alhamdullha for get better confidence
+This project specially practice relationship practice . one to many  and many to one. data load by dropdown.  used j-query ajax.  Oninon Arcitecture flow. used generic repository and genric service layer.  so alhamdullha for get better confidence.
